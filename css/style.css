@@ -32,7 +32,7 @@ figcaption {
 
 .milk-text { /* select elements with class="milk-text" */
   font: bold 2.6em 'Elsie Swash Caps', cursive;
-  color: white
+  color: white;
   text-shadow: 0 2px 3px #000;
 }
 
