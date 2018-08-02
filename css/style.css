@@ -10,7 +10,8 @@ selector {
 
 */
 
-/* Type selector
 
-p { /* selects all p elements */ 
-font-size: 16px; /* 16px, ?pt, 100%, 1em */}
+p{/* selects all p elements */ 
+  font-size: 16px; /* 16px, ?pt, 100%, 1em */
+  line-height: 1.5em;
+}
